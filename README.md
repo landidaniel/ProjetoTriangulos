@@ -1,2 +1,2 @@
 # Projeto Triângulos
-Um leitor de triângulos usando o Java
+Um leitor de triângulos usando Java.
